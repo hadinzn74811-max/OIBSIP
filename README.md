@@ -418,7 +418,7 @@ Special thanks to **Oasis Infobyte** for providing this opportunity to work on p
 https://github.com/affanrahmani590/OIBSIP
 
 ## 🔗 LinkedIn
-https://www.linkedin.com/in/affan-rahmani-89000a347
+https://www.linkedin.com/in/md-hadi-nizam-945347356
 
 ---
 
