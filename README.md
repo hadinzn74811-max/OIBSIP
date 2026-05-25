@@ -415,7 +415,7 @@ Special thanks to **Oasis Infobyte** for providing this opportunity to work on p
 # 📬 Connect With Me
 
 ## 🔗 GitHub
-https://github.com/affanrahmani590/OIBSIP
+https://github.com/hadinzn74811-max
 
 ## 🔗 LinkedIn
 https://www.linkedin.com/in/md-hadi-nizam-945347356
